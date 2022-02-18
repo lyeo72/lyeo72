@@ -1,8 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=c7ecee&height=200&section=header&text=YEOJIN%20YU&fontSize=50&fontColor=ffffff)
-<br><br>
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=c7ecee&height=200&section=header&text=HELLO&fontSize=50&fontColor=000000&desc=Welcome%20to%20my%20page&descAlignY=67&descSize=20)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 </br>
