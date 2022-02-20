@@ -15,13 +15,15 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> &nbsp
-<br>
-<a href="https://yoozzang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-e84393?style=flat-square"></a>
+
 
 </p>
 <br><br>
 <h3 align="center">☎ Contact</b></h3>
 <a href="mailto:lyeo7272@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a>
+<br>
+<a href="https://yoozzang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-e84393?style=flat-square"></a>
+
 <br><br>
 <br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyeo72&count_bg=%23686DE0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
