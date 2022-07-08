@@ -22,7 +22,7 @@
 <h3 align="center">☎ Contact</b></h3>
 <a href="mailto:lyeo7272@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a>
 <br>
-<a href="https://yoozzang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-e84393?style=flat-square"></a>
+<a href="https://tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-e84393?style=flat-square"></a>
 
 <br><br>
 <br><br>
